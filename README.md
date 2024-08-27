@@ -1,7 +1,7 @@
 # Data_Professional_Portfolio
 
 ### Education
-Brooklyn College, Computer Science, BS
+- Brooklyn College, Computer Science, BS
 
 ### Work Experience
 Job Title @ Place
