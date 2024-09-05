@@ -3,6 +3,8 @@
 ### Education
 - Brooklyn College, Computer Science, BS
 
+___
+
 ### Work Experience
 Job Title @ Place
 - Bullet 1 with description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sagittis est purus, sed dapibus mauris sagittis in. Praesent pretium massa quis risus aliquet molestie. Sed placerat sit amet magna et dictum.
@@ -14,9 +16,11 @@ Job Title 2 @ Place 2
 - Phasellus posuere mi sapien, in ullamcorper diam rhoncus posuere. Mauris non rutrum dolor. Vestibulum tempor sit amet tortor sit amet iaculis.
 -  In imperdiet dictum quam vel posuere. Fusce tincidunt aliquam odio, et ornare risus rhoncus at. Cras consequat leo sed enim mollis, sed suscipit nunc consequat. Vivamus dictum tempus enim, ut porttitor ipsum dictum id. Suspendisse tempor posuere sem, sed gravida velit lacinia tempus.
 
-## Projects
-Project 1
-Duis quis leo eget urna euismod ultricies sed id justo. Nullam ac dictum nibh. Duis pharetra id ligula at sagittis. Nulla varius mauris ac neque elementum, sit amet rhoncus mauris tincidunt. Morbi posuere, tortor quis feugiat pretium, nisl neque aliquam nibh, non mattis velit diam eu erat. Sed a urna pharetra, vulputate est id, pretium velit. Phasellus nec augue semper, auctor quam ut, porta nibh.
+___
+
+## Projects 
+[Waze User Churn Project Exploratory Data Analysis](https://github.com/Raekwill15/C4_Waze_Churn_Dataset_EDA/tree/main)
+This is a project I did as part of my Google Advanced Data Analyst Professional Certificate. 
 - Suspendisse varius laoreet aliquam. Ut porttitor est non luctus accumsan. Nunc vel volutpat est. Nullam sagittis molestie ex, ac elementum nulla molestie ut. Integer mattis vel ex ac tincidunt.
 - Duis magna nisi, commodo sed ipsum vel, finibus pretium quam. Donec a turpis hendrerit augue condimentum rutrum. Suspendisse ut vestibulum libero, quis porta dolor. Nulla facilisi.
 - Pellentesque dapibus augue at metus tincidunt, a congue ante posuere. Duis bibendum volutpat urna, ac pulvinar mi dictum nec. Sed consectetur sem a nunc pulvinar malesuada. Proin lorem velit, dignissim facilisis dapibus at, accumsan id nibh.
