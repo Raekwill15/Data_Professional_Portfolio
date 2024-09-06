@@ -1,11 +1,11 @@
 # Data_Professional_Portfolio
 
-### Education
+## Education
 - Brooklyn College, Computer Science, BS
 
 ___
 
-### Work Experience
+## Work Experience
 Job Title @ Place
 - Bullet 1 with description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sagittis est purus, sed dapibus mauris sagittis in. Praesent pretium massa quis risus aliquet molestie. Sed placerat sit amet magna et dictum.
 - Nulla facilisi. Etiam pellentesque interdum odio ac consequat. Nunc vitae facilisis turpis, ac porttitor tortor. Cras faucibus, eros sed congue consectetur, libero ligula vestibulum sapien, nec condimentum ex velit at lorem. Vestibulum fringilla lorem sit amet libero porta fermentum.
@@ -19,8 +19,9 @@ Job Title 2 @ Place 2
 ___
 
 ## Projects 
-[Waze User Churn Project Exploratory Data Analysis](https://github.com/Raekwill15/C4_Waze_Churn_Dataset_EDA/tree/main)
-This is a project I did as part of my Google Advanced Data Analyst Professional Certificate. 
+### [Waze User Churn Project Exploratory Data Analysis](https://github.com/Raekwill15/C4_Waze_Churn_Dataset_EDA/tree/main)
+
+This project was part of the Google Advanced Data Analytics Course. The project was
 - Suspendisse varius laoreet aliquam. Ut porttitor est non luctus accumsan. Nunc vel volutpat est. Nullam sagittis molestie ex, ac elementum nulla molestie ut. Integer mattis vel ex ac tincidunt.
 - Duis magna nisi, commodo sed ipsum vel, finibus pretium quam. Donec a turpis hendrerit augue condimentum rutrum. Suspendisse ut vestibulum libero, quis porta dolor. Nulla facilisi.
 - Pellentesque dapibus augue at metus tincidunt, a congue ante posuere. Duis bibendum volutpat urna, ac pulvinar mi dictum nec. Sed consectetur sem a nunc pulvinar malesuada. Proin lorem velit, dignissim facilisis dapibus at, accumsan id nibh.
