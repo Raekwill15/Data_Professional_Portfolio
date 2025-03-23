@@ -42,8 +42,3 @@ This project was the final part of the 3rd course in the 7-course Google Advance
 - Identified outliers and inconsistencies in the data.
 - Provided A detailed executive report on my findings and gave recommendations on how to move forward with the project.
 
-Project 2
-Duis quis leo eget urna euismod ultricies sed id justo. Nullam ac dictum nibh. Duis pharetra id ligula at sagittis. Nulla varius mauris ac neque elementum, sit amet rhoncus mauris tincidunt. Morbi posuere, tortor quis feugiat pretium, nisl neque aliquam nibh, non mattis velit diam eu erat. Sed a urna pharetra, vulputate est id, pretium velit. Phasellus nec augue semper, auctor quam ut, porta nibh.
-- Suspendisse varius laoreet aliquam. Ut porttitor est non luctus accumsan. Nunc vel volutpat est. Nullam sagittis molestie ex, ac elementum nulla molestie ut. Integer mattis vel ex ac tincidunt.
-- Duis magna nisi, commodo sed ipsum vel, finibus pretium quam. Donec a turpis hendrerit augue condimentum rutrum. Suspendisse ut vestibulum libero, quis porta dolor. Nulla facilisi.
-- Pellentesque dapibus augue at metus tincidunt, a congue ante posuere. Duis bibendum volutpat urna, ac pulvinar mi dictum nec. Sed consectetur sem a nunc pulvinar malesuada. Proin lorem velit, dignissim facilisis dapibus at, accumsan id nibh.
